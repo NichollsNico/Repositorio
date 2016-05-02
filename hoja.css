@@ -5,3 +5,7 @@
 .mayusculas{
 	text-transform: uppercase;
 }
+li{
+	text-transform: lowercase;
+	color: #AF0000;
+}
